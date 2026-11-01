@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\cod_dojo\cod_dojo\bin\Debug\net10.0\cod_dojo.exe
+C:\Users\Pichau\source\repos\cod_dojo\cod_dojo\bin\Debug\net10.0\cod_dojo.deps.json
+C:\Users\Pichau\source\repos\cod_dojo\cod_dojo\bin\Debug\net10.0\cod_dojo.runtimeconfig.json
+C:\Users\Pichau\source\repos\cod_dojo\cod_dojo\bin\Debug\net10.0\cod_dojo.dll
+C:\Users\Pichau\source\repos\cod_dojo\cod_dojo\bin\Debug\net10.0\cod_dojo.pdb
+C:\Users\Pichau\source\repos\cod_dojo\cod_dojo\obj\Debug\net10.0\cod_dojo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\cod_dojo\cod_dojo\obj\Debug\net10.0\cod_dojo.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\cod_dojo\cod_dojo\obj\Debug\net10.0\cod_dojo.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\cod_dojo\cod_dojo\obj\Debug\net10.0\cod_dojo.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\cod_dojo\cod_dojo\obj\Debug\net10.0\cod_dojo.dll
+C:\Users\Pichau\source\repos\cod_dojo\cod_dojo\obj\Debug\net10.0\refint\cod_dojo.dll
+C:\Users\Pichau\source\repos\cod_dojo\cod_dojo\obj\Debug\net10.0\cod_dojo.pdb
+C:\Users\Pichau\source\repos\cod_dojo\cod_dojo\obj\Debug\net10.0\cod_dojo.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\cod_dojo\cod_dojo\obj\Debug\net10.0\ref\cod_dojo.dll
+C:\Users\Pichau\source\repos\cod_dojo\cod_dojo\obj\Debug\net10.0\cod_dojo.csproj.Up2Date
